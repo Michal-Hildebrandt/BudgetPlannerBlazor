@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs/BudgetPlannerBlazor/FileContentIndex
+/.vs
+/BudgetPlannerBlazor/bin/Debug/net6.0
+/BudgetPlannerBlazor/obj/Debug/net6.0
+/BudgetPlannerBlazor/obj

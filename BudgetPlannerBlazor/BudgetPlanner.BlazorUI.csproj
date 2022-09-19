@@ -15,4 +15,9 @@
     <Folder Include="wwwroot\Icons\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\BudgetPlanner.Application\BudgetPlanner.Application.csproj" />
+    <ProjectReference Include="..\BudgetPlanner.Infrastructure\BudgetPlanner.Infrastructure.csproj" />
+  </ItemGroup>
+
 </Project>

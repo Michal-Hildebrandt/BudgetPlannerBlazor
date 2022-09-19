@@ -5,5 +5,6 @@
         public int subcategoryId { get; set; }
         public string subcategoryName { get; set; }
         public int categoryId { get; set; } 
+        public float price { get; set; }
     }
 }
